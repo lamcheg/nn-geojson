@@ -995,7 +995,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "name": "КЗ-1"
+        "name": "Княжий Затон"
       },
       "geometry": {
         "type": "Polygon",
@@ -1163,7 +1163,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "name": "Правый берег Север"
+        "name": "Правый берег север"
       },
       "geometry": {
         "type": "Polygon",
